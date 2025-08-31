@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather_data>
+    <query_info>
+        <city>北京</city>
+        <province>北京</province>
+        <update_time>2025-08-29T10:30:00+08:00</update_time>
+        <data_source>模拟数据源</data_source>
+    </query_info>
+    <current_conditions>
+        <temperature>26</temperature>
+        <humidity>43%</humidity>
+        <condition>多云</condition>
+        <wind>
+            <direction>北风</direction>
+            <speed>4 米/秒</speed>
+        </wind>
+        <sunrise>05:38</sunrise>
+        <sunset>18:51</sunset>
+        <feels_like>28</feels_like>
+        <visibility>10 公里</visibility>
+        <pressure>1015 百帕</pressure>
+    </current_conditions>
+    <forecast days="3">
+        <day>
+            <date>2025-08-30</date>
+            <day_of_week>周六</day_of_week>
+            <high_temp>31</high_temp>
+            <low_temp>20</low_temp>
+            <day_condition>雷阵雨</day_condition>
+            <night_condition>多云</night_condition>
+            <precipitation probability="60%">预计有雷阵雨</precipitation>
+            <wind>
+                <direction>东南风</direction>
+                <speed>3-5 米/秒</speed>
+            </wind>
+        </day>
+        <day>
+            <date>2025-08-31</date>
+            <day_of_week>周日</day_of_week>
+            <high_temp>29</high_temp>
+            <low_temp>19</low_temp>
+            <day_condition>多云</day_condition>
+            <night_condition>晴间多云</night_condition>
+            <precipitation probability="20%">少量降雨可能</precipitation>
+            <wind>
+                <direction>东北风</direction>
+                <speed>2-4 米/秒</speed>
+            </wind>
+        </day>
+        <day>
+            <date>2025-09-01</date>
+            <day_of_week>周一</day_of_week>
+            <high_temp>27</high_temp>
+            <low_temp>18</low_temp>
+            <day_condition>晴</day_condition>
+            <night_condition>晴朗</night_condition>
+            <precipitation probability="10%">无降水</precipitation>
+            <wind>
+                <direction>西北风</direction>
+                <speed>2-3 米/秒</speed>
+            </wind>
+        </day>
+    </forecast>
+    <weather_indicators>
+        <uv_index>7 (高)</uv_index>
+        <air_quality>
+            <aqi>45</aqi>
+            <level>良</level>
+            <pm25>32</pm25>
+            <pm10>45</pm10>
+        </air_quality>
+    </weather_indicators>
+</weather_data>
