@@ -85,23 +85,24 @@ XML语法：
 [![pVMh55R.png](https://s21.ax1x.com/2025/07/08/pVMh55R.png)](https://imgse.com/i/pVMh55R)  
 
 **5） 案例**  
-![3.5.1.png](http://localhost/XML/Pic-file-of-XML/3.5.1.png)  
-![3.5.2.png](http://localhost/XML/Pic-file-of-XML/3.5.2.png)  
+![3.5.1.png](https://github.com/Huang-823/Basic-Learning-of-XML/blob/main/partofPic/3.5.1.png)  
+![3.5.2.png](https://github.com/Huang-823/Basic-Learning-of-XML/blob/main/partofPic/3.5.2.png)  
 
 ## 六.Xpath语言  
 
 **Xpath是一门专门用来查找XML数据内容的一门语言；用来在XIL 文档中对元素及属性进行遍历！**  
 
 ***绝对路径：***  
-![4.1.png](http://localhost/XML/Pic-file-of-XML/4.1.png)  
+![4.1.png](https://github.com/Huang-823/Basic-Learning-of-XML/blob/main/partofPic/4.1.png)  
 
 ***相对路径：***  
-![4.2.png](http://localhost/XML/Pic-file-of-XML/4.2.png)
+![4.2.png](https://github.com/Huang-823/Basic-Learning-of-XML/blob/main/partofPic/4.2.png)
 
 ***匹配查找：***  
-![4.3.png](http://localhost/XML/Pic-file-of-XML/4.3.png)  
+![4.3.png](https://github.com/Huang-823/Basic-Learning-of-XML/blob/main/partofPic/4.3.png)  
 
-![4.4.png](http://localhost/XML/Pic-file-of-XML/4.4.png)  
+![4.4.png](https://github.com/Huang-823/Basic-Learning-of-XML/blob/main/partofPic/4.4.png)  
 
-![4.5.png](http://localhost/XML/Pic-file-of-XML/4.5.png)  
+![4.5.png](https://github.com/Huang-823/Basic-Learning-of-XML/blob/main/partofPic/4.5.png)  
+
 
