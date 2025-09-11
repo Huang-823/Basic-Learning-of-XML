@@ -14,9 +14,9 @@ XML语法：
 
 **XML和HTML的不同：**  
 
-- ==HTML标签不能自定义，XML标签只能自定义==  
-- ==HTML语法要求不严格，XML语法要求极其严格，必须是成对标签==  
-- ==HTML用来展示数据，XML用来传输和存储数据==  
+- *HTML标签不能自定义，XML标签只能自定义*  
+- *HTML语法要求不严格，XML语法要求极其严格，必须是成对标签*  
+- *HTML用来展示数据，XML用来传输和存储数据*  
 
 ## 二.语法规则  
 
@@ -104,6 +104,7 @@ XML语法：
 ![4.4.png](https://github.com/Huang-823/Basic-Learning-of-XML/blob/main/partofPic/4.4.png)  
 
 ![4.5.png](https://github.com/Huang-823/Basic-Learning-of-XML/blob/main/partofPic/4.5.png)  
+
 
 
 
